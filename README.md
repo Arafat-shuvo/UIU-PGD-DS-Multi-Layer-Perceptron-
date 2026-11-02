@@ -18,7 +18,7 @@ It is a computational model inspired by biological neural networks. ANN consists
 
 ### ANN Architecture and Classification
 
-![Artificial Neural Network Architecture and Classification](image.png)
+![Artificial Neural Network Architecture and Classification](images/image.png)
 
 The diagram illustrates different types of Artificial Neural Networks and their architectures.
 
