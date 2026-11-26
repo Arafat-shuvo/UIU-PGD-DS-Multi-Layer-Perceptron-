@@ -1,4 +1,4 @@
-#Artificial Neural Network vs Multi-Layer Perceptron
+# Artificial Neural Network vs Multi-Layer Perceptron
 
 ## 1. Introduction
 
